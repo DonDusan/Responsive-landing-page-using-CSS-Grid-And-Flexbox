@@ -1,3 +1,5 @@
+https://dondusan.github.io/Responsive-landing-page-using-CSS-Grid-And-Flexbox/
+
 # Frontend Mentor - News homepage
 
 ![Design preview for the News homepage coding challenge](./design/desktop-preview.jpg)
