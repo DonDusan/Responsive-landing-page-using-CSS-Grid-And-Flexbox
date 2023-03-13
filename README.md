@@ -1,4 +1,4 @@
-https://dondusan.github.io/Responsive-landing-page-using-CSS-Grid-And-Flexbox/
+Check on the Web: https://dondusan.github.io/Responsive-landing-page-using-CSS-Grid-And-Flexbox/
 
 # Frontend Mentor - News homepage
 
